@@ -12,6 +12,14 @@ const ContactForm = () =>
           <label htmlFor="email">Rayon maximum</label>
           <input type="text" name="email" id="email" />
         </div>
+        <div className="field half">
+          <label htmlFor="name">Point de départ</label>
+          <input type="text" name="name" id="name" />
+        </div>
+        <div className="field half">
+          <label htmlFor="email">Rayon maximum</label>
+          <input type="text" name="email" id="email" />
+        </div>
         <div className="field">
           <label htmlFor="message">Message</label>
           <textarea name="message" id="message" rows="5" />
