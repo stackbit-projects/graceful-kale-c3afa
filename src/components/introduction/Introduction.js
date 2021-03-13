@@ -16,6 +16,13 @@ const Introduction = () =>
             </a>
           </Scroll>
         </li>
+        <li>
+          <Scroll type="id" element="three">
+            <a href="#three" className="button">
+              COMMENCER
+            </a>
+          </Scroll>
+        </li>
       </ul>
     </div>
   </section>
