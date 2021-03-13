@@ -35,7 +35,7 @@ const ContactForm = () =>
         </div>
         <div className="field half">
           <label htmlFor="name">Date de départ</label>
-          <input type="text" name="name" id="name" />
+          <input type="date" name="name" id="name" />
         </div>
         <div className="field half">
           <label htmlFor="email">Date de retour</label>
