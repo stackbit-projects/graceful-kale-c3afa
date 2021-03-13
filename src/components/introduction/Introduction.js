@@ -10,7 +10,7 @@ const Introduction = () =>
       </p>
       <ul className="actions">
         <li>
-          <Scroll type="id" element="one">
+          <Scroll type="id" element="three">
             <a href="#one" className="button">
               COMMENCER
             </a>
