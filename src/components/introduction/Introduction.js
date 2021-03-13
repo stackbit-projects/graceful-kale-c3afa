@@ -6,7 +6,8 @@ const Introduction = () =>
     <div className="inner">
       <h1>C'est quoi ton plan de match?</h1>
       <p>
-        Planifie ton prochain road trip sportif en quelques clics seulement. Choisis tes dates, tes sports et la distance que t'es prêt à voyager, et on s'occupe du reste.
+        Planifie ton prochain road trip sportif en quelques clics seulement. Choisis tes dates, tes sports et la distance que t'es prêt à voyager, et on s'occupe du reste.{' '}
+
       </p>
       <ul className="actions">
         <li>
