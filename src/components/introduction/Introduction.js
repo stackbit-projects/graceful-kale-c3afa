@@ -16,7 +16,7 @@ const Introduction = () =>
         <li>
           <Scroll type="id" element="one">
             <a href="#one" className="button">
-              Learn more
+              COMMENCER
             </a>
           </Scroll>
         </li>
