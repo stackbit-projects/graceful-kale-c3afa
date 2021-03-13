@@ -12,7 +12,7 @@ const Introduction = () =>
         <li>
           <Scroll type="id" element="three">
             <a href="#three" className="button">
-              COMMENCER
+              COMMENCER un nouveau plan de match
             </a>
           </Scroll>
         </li>
