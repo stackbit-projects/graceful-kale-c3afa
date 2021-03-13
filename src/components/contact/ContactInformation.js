@@ -4,7 +4,7 @@ const ContactInformation = () =>
   <section>
     <ul className="contact">
       <li>
-        <h3>Définis tes critères de recherche</h3>
+        <h3>1. Définis tes critères de recherche</h3>
         <span>
           12345 Somewhere Road #654
           <br />
