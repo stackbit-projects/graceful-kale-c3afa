@@ -17,11 +17,9 @@ const Introduction = () =>
           </Scroll>
         </li>
         <li>
-          <Scroll type="id" element="three">
             <a href="#three" className="button">
               RÉCUPÉRER UN PLAN DE MATCH
             </a>
-          </Scroll>
         </li>
       </ul>
     </div>
