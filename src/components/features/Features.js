@@ -43,7 +43,7 @@ const Features = () => {
   const [features] = React.useState(FEATURES);
 
   return (
-    <section id="one" className="wrapper style2 spotlights">
+    <section id="features" className="wrapper style2 spotlights">
        {features.map(feature => <Feature key={feature.heading} {...feature} />)}
     </section>
   );
