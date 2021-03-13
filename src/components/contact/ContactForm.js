@@ -6,7 +6,7 @@ const ContactForm = () =>
       <div className="fields">
         <div className="field">
           <label htmlFor="message">Ligues</label>
-          <input type name="message" id="message" rows="5" />
+          <input type="" name="message" id="message" rows="5" />
         </div>
         <div className="field half">
           <label htmlFor="name">Point de départ</label>
