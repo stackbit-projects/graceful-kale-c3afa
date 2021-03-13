@@ -11,7 +11,7 @@ const Introduction = () =>
       <ul className="actions">
         <li>
           <Scroll type="id" element="one">
-            <a href="#one" className="button">
+            <a href="#three" className="button">
               COMMENCER
             </a>
           </Scroll>
