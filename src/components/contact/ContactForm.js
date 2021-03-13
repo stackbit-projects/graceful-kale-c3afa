@@ -13,7 +13,7 @@ const ContactForm = () =>
           <input type="text" name="email" id="email" />
         </div>
         <div className="field half">
-          <label htmlFor="name">Point de départ</label>
+          <label htmlFor="name">Date de départ</label>
           <input type="text" name="name" id="name" />
         </div>
         <div className="field half">
