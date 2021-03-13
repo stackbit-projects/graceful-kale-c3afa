@@ -8,7 +8,7 @@ const ContactForm = () =>
             
           <label htmlFor="message">Ligues</label>
           <input type="checkbox" name="message" id="message"/>
-            <label for="vehicle1"> I have a bike</label>
+            <label for="vehicle1">NHL</label>
           <input type="checkbox" name="message" id="message"/>
             <label for="vehicle1"> I have a bike</label>
           <input type="checkbox" name="message" id="message"/>
