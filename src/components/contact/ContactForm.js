@@ -10,7 +10,8 @@ const ContactForm = () =>
           <input type="checkbox" name="message" id="message"/>
             <label for="vehicle1"> I have a bike</label>
           <input type="checkbox" name="message" id="message"/>
-            <label for="vehicle1"> I have a bike</label>          
+            <label for="vehicle1"> I have a bike</label>
+                  
           
         </div>
         <div className="field half">
