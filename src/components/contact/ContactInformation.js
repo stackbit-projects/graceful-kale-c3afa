@@ -21,9 +21,6 @@ const ContactInformation = () =>
         <h3>3. Achète tes billets et réserve tes nuits à l'hôtel</h3>
         <span>(000) 000-0000</span>
       </li>
-      <li>
-        <h3>Social</h3>
-      </li>
     </ul>
   </section>
 
