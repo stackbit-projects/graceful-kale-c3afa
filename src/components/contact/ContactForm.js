@@ -9,6 +9,7 @@ const ContactForm = () =>
           <label htmlFor="message">Ligues</label>
           <input type="checkbox" name="message" id="message"/>
           
+          
         </div>
         <div className="field half">
           <label htmlFor="name">Point de départ</label>
