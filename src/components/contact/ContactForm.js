@@ -45,7 +45,7 @@ const ContactForm = () =>
       <ul className="actions">
         <li>
           <a href="/#" className="button submit">
-            Send Message
+            Crée ton plan de match
           </a>
         </li>
       </ul>
