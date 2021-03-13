@@ -20,6 +20,10 @@ const ContactForm = () =>
           <label htmlFor="email">Date de retour</label>
           <input type="text" name="email" id="email" />
         </div>
+        <div className="field">
+          <label htmlFor="message">Message</label>
+          <textarea name="message" id="message" rows="5" />
+        </div>
       </div>
       <ul className="actions">
         <li>
