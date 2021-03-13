@@ -24,7 +24,6 @@ const ContactForm = () =>
             <label for="vehicle1">MMA</label>
           <input type="checkbox" name="message" id="message"/>
             <label for="vehicle1">Golf</label>
-          
         </div>
         <div className="field half">
           <label htmlFor="name">Point de départ</label>
