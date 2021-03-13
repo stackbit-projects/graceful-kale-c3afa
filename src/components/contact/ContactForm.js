@@ -5,7 +5,7 @@ const ContactForm = () =>
     <form method="post" action="#">
       <div className="fields">
         <div className="field">
-          <label htmlFor="message">Message</label>
+          <label htmlFor="message">Ligues</label>
           <textarea name="message" id="message" rows="5" />
         </div>
         <div className="field half">
