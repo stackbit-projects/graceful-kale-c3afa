@@ -17,7 +17,7 @@ const Introduction = () =>
           </Scroll>
         </li>
         <li>
-          <Scroll type="id" element="three"></Scroll>
+          <Scroll type="id" element="three">
             <a href="#three" className="button">
               RÉCUPÉRER UN PLAN DE MATCH
             </a>
