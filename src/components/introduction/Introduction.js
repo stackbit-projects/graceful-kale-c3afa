@@ -17,10 +17,11 @@ const Introduction = () =>
           </Scroll>
         </li>
         <li>
-          <Scroll type="id" element="three">
+          <Scroll type="id" element="three"></Scroll>
             <a href="#three" className="button">
               RÉCUPÉRER UN PLAN DE MATCH
             </a>
+          </Scroll>
         </li>
       </ul>
     </div>
