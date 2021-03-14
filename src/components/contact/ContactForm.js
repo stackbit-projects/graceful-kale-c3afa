@@ -27,7 +27,7 @@ const ContactForm = () =>
         </div>
         <div className="field half">
           <input type="checkbox" id="demo-copy" name="demo-copy" />
-                  <label htmlFor="demo-copy">Email me a copy</label>
+          <label htmlFor="demo-copy">Email me a copy</label>
         </div>
         <div className="field half">
           <label htmlFor="email">Rayon maximum</label>
