@@ -6,7 +6,7 @@ const Introduction = () =>
     <div className="inner">
       <h1>Ton plan de match, ton planificateur de road trip sportif.</h1>
       <p>
-        Planifie ton prochain road trip sportif en quelques clics seulement.{' '}
+        Organise ton prochain road trip à thématique sportive en quelques clics.{' '}
       </p>
       <ul className="actions">
         <li>
