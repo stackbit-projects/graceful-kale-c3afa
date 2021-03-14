@@ -8,22 +8,22 @@ const ContactForm = () =>
           <label htmlFor="message">Sport</label>
           <input type="checkbox" id="demo-copy" name="demo-copy" />
             <label htmlFor="demo-copy">Email me a copy</label>
-          <input type="checkbox" name="message" id="message"/>
-            <label for="vehicle1">Baseball</label>
-          <input type="checkbox" name="message" id="message"/>
-            <label for="vehicle1">Football</label>
-          <input type="checkbox" name="message" id="message"/>
-            <label for="vehicle1">Basketball</label>
-          <input type="checkbox" name="message" id="message"/>
-            <label for="vehicle1">Tennis</label>
-          <input type="checkbox" name="message" id="message"/>
-            <label for="vehicle1">Lutte</label>
-          <input type="checkbox" name="message" id="message"/>
-            <label for="vehicle1">Boxe</label>
-          <input type="checkbox" name="message" id="message"/>
-            <label for="vehicle1">MMA</label>
-          <input type="checkbox" name="message" id="message"/>
-            <label for="vehicle1">Golf</label>
+          <input type="checkbox" id="demo-copy" name="demo-copy" />
+            <label htmlFor="demo-copy">Email me a copy</label>
+          <input type="checkbox" id="demo-copy" name="demo-copy" />
+            <label htmlFor="demo-copy">Email me a copy</label>
+          <input type="checkbox" id="demo-copy" name="demo-copy" />
+            <label htmlFor="demo-copy">Email me a copy</label>
+          <input type="checkbox" id="demo-copy" name="demo-copy" />
+            <label htmlFor="demo-copy">Email me a copy</label>
+          <input type="checkbox" id="demo-copy" name="demo-copy" />
+            <label htmlFor="demo-copy">Email me a copy</label>
+          <input type="checkbox" id="demo-copy" name="demo-copy" />
+            <label htmlFor="demo-copy">Email me a copy</label>
+          <input type="checkbox" id="demo-copy" name="demo-copy" />
+            <label htmlFor="demo-copy">Email me a copy</label>
+          <input type="checkbox" id="demo-copy" name="demo-copy" />
+            <label htmlFor="demo-copy">Email me a copy</label>
         </div>
         <div className="field half">
           <label htmlFor="name">Point de départ</label>
