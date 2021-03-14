@@ -26,8 +26,8 @@ const ContactForm = () =>
             <label for="vehicle1">Golf</label>
         </div>
         <div className="field half">
-          <label htmlFor="name">Point de départ</label>
-          <input type="text" name="name" id="name" />
+          <input type="checkbox" id="demo-copy" name="demo-copy" />
+                  <label htmlFor="demo-copy">Email me a copy</label>
         </div>
         <div className="field half">
           <label htmlFor="email">Rayon maximum</label>
